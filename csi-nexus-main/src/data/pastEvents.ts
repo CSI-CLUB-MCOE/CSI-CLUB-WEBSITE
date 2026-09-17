@@ -1,5 +1,23 @@
 export const pastEvents = [
   {
+    title: "Web Development for Deployment Workshop",
+    date: "11 Sept 2026",
+    location: "SL-1",
+    desc: "A hands-on workshop on web development for deployment, where participants learned how to deploy web applications using Vercel and Render.",
+  },
+  {
+    title: "Orientation Session for New CSI Members ",
+    date: "Aug 2026",
+    location: "424 classroom",
+    desc: "An introductory session for new members to get started with club CSI and learn about our initiatives.",
+  },
+  {
+    title: "Data To Decision : Data Analytics and Visualization",
+    date: "3rd & 4th Aug 2026",
+    location: "424 classroom, T&P Seminar Hall",
+    desc: "A 2-day workshop on data analytics and visualization, where participants learned how to analyze and visualize data using various tools and techniques.",
+  },
+  {
     title: "Mpulse 2026 : Exchange the Code",
     date: "10 April 2026",
     location: "Hardware Lab",

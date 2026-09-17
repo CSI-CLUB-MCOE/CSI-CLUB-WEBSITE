@@ -43,10 +43,10 @@ const Footer = () => {
             <h4 className="font-display font-semibold text-foreground mb-4">Connect</h4>
             <div className="flex gap-3">
               {[
-                { icon: Instagram, href: "https://www.instagram.com/csi_mcoe?igsh=MmFhbGhoZDF1MHN6" },
+                { icon: Instagram, href: "https://www.instagram.com/csi_mcoe" },
                 { icon: Linkedin, href: "https://www.linkedin.com/company/csi-pesmcoe/" },
-                { icon: Github, href: "#" },
-                { icon: Mail, href: "mailto:csi@pesmcoe.edu.in" },
+                { icon: Github, href: "https://github.com/CSI-CLUB-MCOE" },
+                { icon: Mail, href: "mailto:csi_comp@moderncoe.edu.in" },
               ].map(({ icon: Icon, href }, i) => (
                 <a
                   key={i}
